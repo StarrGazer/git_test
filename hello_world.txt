@@ -1,1 +1,1 @@
-Hello! This is a test file to help me practice using Git and Github.
+Hello! This is a test file to help me practice using Git and Github. It's difficult at first, but I'm learning new things every minute.
